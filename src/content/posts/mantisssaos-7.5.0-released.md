@@ -12,6 +12,5 @@ The first stable builds of MantissaOS 7.5 have been released today to the follow
 
 - Android Emulator x86_64 (emu64x)
 - Pixel 6a (bluejay)
-- OnePlus Nord N200 (dre; released 7/18/2025)
 
 Major new features of the OS include a Settings redesign, a search bar in the dock, the AOSP Clock app and an updated Music app with customizable visualizers!
